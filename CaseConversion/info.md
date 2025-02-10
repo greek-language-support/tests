@@ -1,4 +1,7 @@
 #case_conversion
+We'll focus on testing the case-changing functionality of a word processor (or text widget) with regards to Greek letters, their accents, dieresis, and special sigma handling.
+Here’s a breakdown of tests, organized by the rules:
+
 For these tests we picked the default fonts for macOS, windowsOS, and multiple apps, InDesign, Illustrator, Word.
 
 These fonts are:
@@ -11,7 +14,8 @@ These fonts are:
 
 More info about version, features and charsets of these fonts can be found [here](https://docs.google.com/document/d/1mhGeLYUnWmjpszov_WV4ZyrAkpt5BqMpFfHQhiaqOzo/edit?tab=t.0) and the font files [here](https://drive.google.com/drive/folders/1vMAnBKB2O7-i50Ap50L0u4gO_rPV0xBa)
 
-The document we test is here
+The document we test is here:
+
 
 These documents test case conversion cases in the following apps:
 - Adobe Illustrator (MacOS: 29.2.1 ), (Windows:)

@@ -1,5 +1,3 @@
-We'll focus on testing the case-changing functionality of a word processor (or text widget) with regards to Greek letters, their accents, dieresis, and special sigma handling.
-Here’s a breakdown of tests, organized by the rules:
 ## I. Basic Case Conversion (Lower to Upper and Vice-Versa)
 - Test 1: Simple Lowercase to Uppercase:
 	- Input: "αβγδεζηθικλμνξοπρστυφχψω"
