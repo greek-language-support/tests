@@ -40,4 +40,4 @@ These documents test case conversion cases in the following apps:
 
 The result will be gathered [here](https://docs.google.com/spreadsheets/d/1-Icl9xnrgXiQugDejsrXyXFH0HjGw-Caj_7OY7xan9o/edit?gid=0#gid=0)
 
-#presentation_tests\
+#presentation_tests
