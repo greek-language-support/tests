@@ -2,23 +2,13 @@
 
 Second part of testing using a paragraph that contains 7 new issues and a small sample of case conversions.
 This 7 new issues are:
-- apostrophe 
-
-apostrophe.png
-
-- kai conjunction
-kaisymbol.png
-- keraia 
-keraia.png
-- high quotes
-highquotes.png
-- anoteleia 
-
-anoteleia.png
-- question mark
-greekquestionmark.png
-- Math and greek symbols ΔΩμπ
-Delta_Omega_mu_pi.png
+- apostrophe ![](https://github.com/irenevlachou/tests/blob/main/PresentationTest/images/apostrophe.png)
+- kai conjunction ![](https://github.com/irenevlachou/tests/blob/main/PresentationTest/images/kaisymbol.png)
+- keraia ![](https://github.com/irenevlachou/tests/blob/main/PresentationTest/images/keraia.png)
+- high quotes ![](https://github.com/irenevlachou/tests/blob/main/PresentationTest/images/highquotes.png)
+- anoteleia [](https://github.com/irenevlachou/tests/blob/main/PresentationTest/images/anoteleia.png)
+- question mark ![](https://github.com/irenevlachou/tests/blob/main/PresentationTest/images/greekquestionmark.png)
+- Math and greek symbols ΔΩμπ ![](https://github.com/irenevlachou/tests/blob/main/PresentationTest/images/Delta_Omega_mu_pi.png)
 For these tests we picked the default fonts for macOS, windowsOS, and multiple apps, InDesign, Illustrator, Word.
 
 These fonts are:
