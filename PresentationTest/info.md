@@ -2,49 +2,30 @@
 
 Second part of testing using a paragraph that contains 7 new issues and a small sample of case conversions.
 This 7 new issues are:
-- apostrophe\
+- apostrophe 
+
 apostrophe.png
-- kai conjunction 
 
-kaisymbol 2.png
-
+- kai conjunction
+kaisymbol.png
 - keraia 
-
 keraia.png
-
 - high quotes
 highquotes.png
+- anoteleia 
 
-- anoteleia
-
+anoteleia.png
 - question mark
 greekquestionmark.png
 - Math and greek symbols ΔΩμπ
 Delta_Omega_mu_pi.png
-
-
-> Τον πέτυχα στο μπαρ να τρώει παϊδάκια με τρία παιδάκια της στʹ δημοτικού· ρώτησα «Πού ’ν’ τα λεφτά;».
-> «Άσε, μου τα φάγανε τα δισ.! Μού’παν “ή η κακιά η ώρα, ή η αιώρα…”» 
-> — Ή τά’φαγες μόνος σου, μόνος σου· είπα Δις. 
-> » Αν ϗʹ κατ’ άλλους, το πλάνο σου ήταν άλλ’ αντ’ άλλων.
-> » Η Ήρα είπε μάλιστα: «Ωχ, άυλος φαύλος κύκλος, σα φύλλο στο μαΐστρο».  
-> 
-> Ένα από τα πιο φημισμένα Καποδιστριακά κτίρια της Αίγινας και το πρώτο νεοκλασσικό του νεοελληνικού κράτους είναι το «Εϋνάρδειο (Κεντρικό) διδασκαλείο» ή «Εϋνάρδειος σχολή».
-> 
-> όρος Πάικο /  δρύινο / ρολόι / ναύλος / κούνημα / ποίηση / ελλείψεις / μαϊστράλι / ζεϊμπέκικο / βοϊδάμαξα / προϋπόθεση / εξαϋλώθηκε / εϋνάρδειο / μάινα /  μαΐστρος / προΐσταται / προΰπαρξη / άυπνος 
-> μπόυ / Χέυδεν / λέιζερ / σέικερ
-> 
-> άμ έμ ήμ ίμ όμ ύμ ώμ
-> μά μέ μή μί μό μύ μώ
-
-
 For these tests we picked the default fonts for macOS, windowsOS, and multiple apps, InDesign, Illustrator, Word.
 
 These fonts are:
 - Aptos (wrong position anoteleia)
 - Helvetica (wrong position anoteleia, missing kaisymbol)
 - MinionPro (wrong position anoteleia, missing kaisymbol)
-- NotoSans
+- **NotoSans**
 - SegoeUI (wrong position anoteleia)
 - SF-Pro (missing kaisymbol)
 
