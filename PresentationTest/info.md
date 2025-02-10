@@ -51,7 +51,7 @@ These fonts are:
 More info about version, features and charsets of these fonts can be found [here](https://docs.google.com/document/d/1mhGeLYUnWmjpszov_WV4ZyrAkpt5BqMpFfHQhiaqOzo/edit?tab=t.0) and the font files [here](https://drive.google.com/drive/folders/1vMAnBKB2O7-i50Ap50L0u4gO_rPV0xBa)
 
 The document we test is here:
-[Presentation test]()
+[Presentation test](https://github.com/irenevlachou/tests/blob/main/PresentationTest/presentation_test.md)
 
 These documents test case conversion cases in the following apps:
 - Adobe Illustrator (MacOS: 29.2.1 ), (Windows:)
