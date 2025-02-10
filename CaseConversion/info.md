@@ -1,4 +1,4 @@
-#case_conversion
+# case_conversion
 We'll focus on testing the case-changing functionality of a word processor (or text widget) with regards to Greek letters, their accents, dieresis, and special sigma handling.
 Here’s a breakdown of tests, organized by the rules:
 
@@ -25,3 +25,5 @@ These documents test case conversion cases in the following apps:
 - TextEdit (MacOS: 1.20 (409))
 
 The result will be gathered [here](https://docs.google.com/spreadsheets/d/1-Icl9xnrgXiQugDejsrXyXFH0HjGw-Caj_7OY7xan9o/edit?gid=0#gid=0)
+
+#case_conversion
